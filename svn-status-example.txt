@@ -1,0 +1,199 @@
+             58416    48101 goncharov    _cntl\win32
+M            58416    48101 goncharov    _cntl\win32\altpubserv.vcproj
+M            58416    18936 goncharov    _cntl\win32\makehelp.bat
+             58416    30506 goncharov    _cntl\win32\altpubserv.dsp
+M            58416    36480 goncharov    _cntl\win32\altpubserv.exe.manifest
+             58416    48101 goncharov    _cntl
+D            58416    35626 goncharov    source\crl_downloader.cpp
+M            58416    27063 goncharov    source\settings.cpp
+D            58416    36846 goncharov    source\acoptattr.cpp
+A  +             -    52635 goncharov    source\page-ad-connection-params.cpp
+A  +             -    52635 goncharov    source\page-ad-pub-account.cpp
+D            58416    35626 goncharov    source\change_ds_attr_dlg2.cpp
+A  +             -    56424 goncharov    source\page-vipnet-crl-storage-type.cpp
+D            58416    18706 goncharov    source\sam.cpp
+D            58416    36846 goncharov    source\serversdlg.cpp
+D            58416    35626 goncharov    source\accoptconnectionldapdlg.cpp
+D            58416    17186 goncharov    source\accproppage.cpp
+M            58416    43843 goncharov    source\altpubserv.cpp
+D            58416    33041 goncharov    source\acoptstorage.cpp
+D            58416    48703 goncharov    source\cdp_dlg.cpp
+A  +             -    57072 goncharov    source\page-container.cpp
+D            58416    17186 goncharov    source\accoptstorageproppage.cpp
+D            58416    38204 goncharov    source\import_crl_dlg.cpp
+A  +             -    56424 goncharov    source\page-user-cert-storage-type.cpp
+D            58416    38746 goncharov    source\generaldlg.cpp
+A  +             -    57073 goncharov    source\page-ftp-directory.cpp
+A  +             -    58205 goncharov    source\cdp-inquirer-dlg.cpp
+D            58416    48101 goncharov    source\crl_retriever.cpp
+D            58416    36846 goncharov    source\accountoptions.cpp
+      C      58416    54700 goncharov    source\viewpubcrldlg.cpp
+      >   local edit, incoming delete upon merge
+A  +             -    52458 goncharov    source\page-user-cert-ad-pub-params.cpp
+A  +             -    57812 goncharov    source\cdp-dlg.cpp
+A  +             -    52458 goncharov    source\page-base-adx-connection-params.cpp
+A  +             -    52458 goncharov    source\page-base-adx-pub-account.cpp
+A  +             -    57182 goncharov    source\publication-dlg.cpp
+A  +             -    52635 goncharov    source\page-pub-name.cpp
+A  +             -    51637 goncharov    source\pub-wiz-base-page.cpp
+A  +             -    54022 goncharov    source\page-base-pub-wiz.cpp
+A  +             -    57517 goncharov    source\find-cert-dlg.cpp
+D            58416    44974 goncharov    source\pubworker.cpp
+D            58416    35626 goncharov    source\accoptconnectionhttpdlg.cpp
+A  +             -    52635 goncharov    source\page-ftp-pub-account.cpp
+A  +             -    56184 goncharov    source\user-dlg.cpp
+M            58416    54107 goncharov    source\sp.cpp
+D            58416    24398 goncharov    source\timedmsgbox.cpp
+D            58416    35626 goncharov    source\accoptstorageldapdlg.cpp
+D            58416    38746 goncharov    source\acoptconnection.cpp
+D            58416    35838 romko        source\cdp_inbox_checker.cpp
+A  +             -    52635 goncharov    source\page-adam-pub-account.cpp
+A  +             -    52635 goncharov    source\page-adam-connection-params.cpp
+D            58416    35626 goncharov    source\accoptconnectionftpdlg.cpp
+D            58416    35626 goncharov    source\accoptstorageftpdlg.cpp
+D            58416    35626 goncharov    source\waitcheckaccdlg.cpp
+A  +             -    55899 goncharov    source\page-pub-wiz-summary.cpp
+D            58416    37516 potashnikov  source\acoptgeneral.cpp
+M            58416    17186 goncharov    source\gradientstatic.cpp
+      C      58416    54107 goncharov    source\userdlg.cpp
+      >   local edit, incoming delete upon merge
+M            58416    38203 goncharov    source\shared.cpp
+A  +             -    56424 goncharov    source\page-non-vipnet-crl-storage-type.cpp
+A  +             -    57543 goncharov    source\publication-wizard.cpp
+D            58416    35626 goncharov    source\cdp_mgr.cpp
+D            58416    38205 goncharov    source\altpubservdlg.cpp
+D            58416    35626 goncharov    source\accoptstoragehttpdlg.cpp
+      C      58416    54700 goncharov    source\viewpubcertdlg.cpp
+      >   local edit, incoming delete upon merge
+D            58416    35626 goncharov    source\resizedlg.cpp
+             58416    19648 goncharov    source\stdafx.cpp
+A  +             -    52458 goncharov    source\page-user-cert-ad-pub-alg.cpp
+D            58416    40161 goncharov    source\change_ds_attr_dlg.cpp
+A  +             -    58230 goncharov    source\altpubserv-dlg.cpp
+A  +             -    52635 goncharov    source\page-ad-lds-pub-account.cpp
+A  +             -    52635 goncharov    source\page-ad-lds-connection-params.cpp
+      C      58416    54700 goncharov    source\publisher.cpp
+      >   local edit, incoming delete upon merge
+             58416    37792 dragalchuk   source\extendedmessagebox
+D            58416    24232 goncharov    source\extendedmessagebox\cexdib.cpp
+D            58416    27063 goncharov    source\extendedmessagebox\ppmessageboxclass.cpp
+D            58416    37792 dragalchuk   source\extendedmessagebox\ppdrawmanager.cpp
+D            58416    33649 goncharov    source\extendedmessagebox\pphtmldrawer.cpp
+D            58416    33041 goncharov    source\extendedmessagebox\ppmessagebox.cpp
+M            58416    30330 goncharov    source\reportctrl.cpp
+A  +             -    57159 goncharov    source\pub-journal-dlg.cpp
+A  +             -    57266 goncharov    source\find-crl-dlg.cpp
+A  +             -    57080 goncharov    source\page-adx-scheme-state.cpp
+D            58416    40161 goncharov    source\cdp.cpp
+D            58416    38223 goncharov    source\accountinfo.cpp
+A  +             -    52635 goncharov    source\page-ftp-connection-params.cpp
+A  +             -    57196 goncharov    source\general-dlg.cpp
+A  +             -    56424 goncharov    source\page-pub-data-type.cpp
+D            58416    48628 goncharov    source\pubinfofinder.cpp
+             58416    54700 goncharov    source
+A  +             -    52458 goncharov    include\page-user-cert-ad-pub-alg.h
+D            58416    33041 goncharov    include\acoptstorage.h
+A  +             -    52635 goncharov    include\page-ad-lds-connection-params.h
+A  +             -    52635 goncharov    include\page-ad-lds-pub-account.h
+             58416    27063 goncharov    include\reportctrl.h
+A  +             -    57182 goncharov    include\find-crl-dlg.h
+A  +             -    57159 goncharov    include\pub-journal-dlg.h
+M            58416    17186 goncharov    include\trigger.h
+A  +             -    51617 goncharov    include\targetver.h
+A  +             -    52635 goncharov    include\page-ftp-directory.h
+D            58416    40161 goncharov    include\cdp.h
+A  +             -    52026 goncharov    include\page-adx-scheme-state.h
+D            58416    35626 goncharov    include\crl_retriever.h
+D            58416    35838 romko        include\accountinfo.h
+      C      58416    54700 goncharov    include\viewpubcrldlg.h
+      >   local edit, incoming delete upon merge
+A  +             -    55448 goncharov    include\publication-dlg.h
+A  +             -    51732 goncharov    include\pub-wiz-base-page.h
+A  +             -    57517 goncharov    include\find-cert-dlg.h
+A  +             -    54022 goncharov    include\page-base-pub-wiz.h
+A  +             -    52635 goncharov    include\page-ftp-pub-account.h
+A  +             -    52026 goncharov    include\page-pub-data-type.h
+D            58416    40161 goncharov    include\cdp_inbox_checker.h
+D            58416    38223 goncharov    include\pubinfofinder.h
+D            58416    26298 goncharov    include\crl_downloader.h
+D            58416    35626 goncharov    include\accoptstorageftpdlg.h
+M            58416    27063 goncharov    include\settings.h
+D            58416    35838 romko        include\userdlg.h
+             58416    17186 goncharov    include\gradientstatic.h
+A  +             -    55899 goncharov    include\publication-wizard.h
+M            58416    17186 goncharov    include\anchor.h
+D            58416    27063 goncharov    include\cdp_mgr.h
+A  +             -    52635 goncharov    include\page-ad-pub-account.h
+A  +             -    52635 goncharov    include\page-ad-connection-params.h
+A  +             -    52026 goncharov    include\page-vipnet-crl-storage-type.h
+D            58416    18706 goncharov    include\sam.h
+D            58416    35626 goncharov    include\serversdlg.h
+D            58416    17186 goncharov    include\accproppage.h
+D            58416    35626 goncharov    include\accoptstoragehttpdlg.h
+M            58416    46546 potashnikov  include\stdafx.h
+D            58416    40161 goncharov    include\change_ds_attr_dlg.h
+A  +             -    56184 goncharov    include\altpubserv-dlg.h
+D            58416    35626 goncharov    include\cdp_dlg.h
+D            58416    19503 goncharov    include\accoptstorageproppage.h
+A  +             -    52635 goncharov    include\page-container.h
+D            58416    35838 romko        include\publisher.h
+D            58416    35626 goncharov    include\import_crl_dlg.h
+D            58416    35626 goncharov    include\generaldlg.h
+A  +             -    52026 goncharov    include\page-user-cert-storage-type.h
+A  +             -    57812 goncharov    include\cdp-inquirer-dlg.h
+D            58416    33649 goncharov    include\accountoptions.h
+A  +             -    51285 goncharov    include\cdp-dlg.h
+A  +             -    52026 goncharov    include\page-user-cert-ad-pub-params.h
+A  +             -    52458 goncharov    include\page-base-adx-connection-params.h
+A  +             -    52458 goncharov    include\page-base-adx-pub-account.h
+A  +             -    52635 goncharov    include\page-pub-name.h
+D            58416    17186 goncharov    include\locker.h
+D            58416    35838 romko        include\pubworker.h
+D            58416    35626 goncharov    include\accoptconnectionhttpdlg.h
+A  +             -    52635 goncharov    include\page-ftp-connection-params.h
+A  +             -    55191 goncharov    include\general-dlg.h
+A  +             -    54022 goncharov    include\user-dlg.h
+D            58416    24398 goncharov    include\timedmsgbox.h
+M            58416    21054 goncharov    include\sp.h
+D            58416    35626 goncharov    include\accoptstorageldapdlg.h
+D            58416    35626 goncharov    include\acoptconnection.h
+             58416    27063 goncharov    include\extendedmessagebox
+D            58416    24232 goncharov    include\extendedmessagebox\pphtmldrawer.h
+D            58416    27063 goncharov    include\extendedmessagebox\ppmessagebox.h
+D            58416    24232 goncharov    include\extendedmessagebox\cexdib.h
+D            58416    24232 goncharov    include\extendedmessagebox\stdstring.h
+D            58416    27063 goncharov    include\extendedmessagebox\ppmessageboxclass.h
+D            58416    24232 goncharov    include\extendedmessagebox\ppdrawmanager.h
+D            58416    35626 goncharov    include\accoptconnectionftpdlg.h
+A  +             -    52635 goncharov    include\page-adam-connection-params.h
+A  +             -    52635 goncharov    include\page-adam-pub-account.h
+D            58416    35626 goncharov    include\waitcheckaccdlg.h
+D            58416    35626 goncharov    include\acoptattr.h
+A  +             -    52484 goncharov    include\page-pub-wiz-summary.h
+D            58416    20257 goncharov    include\acoptgeneral.h
+M            58416    38203 goncharov    include\shared.h
+A  +             -    52026 goncharov    include\page-non-vipnet-crl-storage-type.h
+D            58416    35626 goncharov    include\change_ds_attr_dlg2.h
+D            58416    38206 goncharov    include\altpubservdlg.h
+D            58416    35626 goncharov    include\accoptconnectionldapdlg.h
+      C      58416    54700 goncharov    include\viewpubcertdlg.h
+      >   local edit, incoming delete upon merge
+M            58416    35626 goncharov    include\altpubserv.h
+             58416    17186 goncharov    include\resizedlg.h
+             58416    54700 goncharov    include
+?                                        svn.txt
+             58416    54562 goncharov    resource\altpubserv.ico
+             58416    54562 goncharov    resource\header.bmp
+             58416    54562 goncharov    resource\status_ok.ico
+             58416    54562 goncharov    resource\status_critical.ico
+             58416    54562 goncharov    resource\findcert.ico
+             58416    54562 goncharov    resource\status_excl.ico
+             58416    54562 goncharov    resource\clock.avi
+M            58416    37445 goncharov    resource\altpubserv.rc
+             58416    18936 goncharov    resource\resource.hm
+M            58416    17722 goncharov    resource\altpubserv.rc2
+M            58416    35626 goncharov    resource\resource.h
+             58416    54562 goncharov    resource\cdp_list.bmp
+             58416    54562 goncharov    resource\usrnfoil.bmp
+             58416    54562 goncharov    resource
+             58416    54700 goncharov    .
